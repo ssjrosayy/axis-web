@@ -1,0 +1,12 @@
+{
+  "name": "axis-website",
+  "version": "1.0.0",
+  "description": "AXIS technology company website",
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "build:azure": "echo 'No build step required for static site'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
